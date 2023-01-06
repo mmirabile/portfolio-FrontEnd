@@ -1,0 +1,30 @@
+.row{
+    padding: 20px;
+}
+div{
+    background-color: #bad5f1;
+}
+h4,h6,p{
+    display: inline;
+}
+li.lista{
+    margin-top: 1.2%;
+
+}
+li.sub_lista{
+
+        list-style-type: square;
+        list-style-image: url(../../../assets/vineta_2.png);
+        list-style-position: inside;
+
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        font-size: 14px;
+        margin-top: 0.2%;
+
+}
+p.p_educacion{
+    font-family: "New Century Schoolbook", Times, cursive ;
+    font-weight: normal;
+    font-size: 16px;
+}
